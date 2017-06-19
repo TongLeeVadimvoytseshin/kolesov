@@ -1,0 +1,175 @@
+* {
+	margin:0;
+	padding:0;
+}
+
+body {
+	background:url(../images/bg.jpg);
+}
+
+.wrapper {
+	width:960px;
+	margin:25px auto;
+	background:#fff;
+}
+
+.top_header {
+	width:960px;
+	min-height:42px;
+	background:#023875;
+	border-radius:4px;
+}
+
+h2 {
+	width:309px;
+	float:left;
+	padding-top:25px;
+}
+
+.motor {
+	font-size:24px;
+	line-height:29px;
+	color:#023875;
+	padding-left:18px;
+}
+
+.kolesov {
+	font-size:48px;
+	line-height:58px;
+	color:#023875;
+	padding-left:18px;
+}
+
+.site {
+	font-size:13px;
+	line-height:16px;
+	padding-left:18px;
+	font-weight:normal;
+}
+
+.tel a {
+	text-decoration:none;
+	color:#023875;
+	font-size:24px;
+	line-height:29px;
+}
+
+.tel a:hover {
+	color:red;
+}
+
+.timetable {
+	font-size:13px;
+	line-height:16px;
+	text-align: center;
+}
+
+.info {
+	width: 249px;
+	float:right;
+	padding-right:18px;
+	padding-top:25px;
+}
+
+.ship {
+	padding-left:10px;
+	padding-top:25px;
+}
+
+header {
+	padding-bottom:39px;
+}
+
+.content {
+	background:#fff;
+	padding-bottom:113px;
+}
+
+.img_city {
+	padding-left:18px;
+	padding-bottom:20px;
+}
+
+.content:after {
+	content:'.';
+	display:block;
+	clear:both;
+	height:0;
+}
+
+.left_info p {
+	font-size:13px;
+	line-height:16px;
+}
+
+.left_info {
+	padding-left:18px;
+	width:597px;
+	float:left;
+}
+
+.right_bar {
+	width: 301px;
+	float:right;
+}
+
+h1 {
+	font-size:24px;
+	line-height:29px;
+	color:#023875;
+	padding-bottom:18px;
+}
+
+.right_bar {
+	padding-right:22px;
+}
+
+.name_bar {
+	width:301px;
+	font-size:18px;
+	line-height:43px;
+	min-height:43px;
+	text-align:center;
+	color:#fff;
+	background:#023875;
+	padding-left:5px;
+	padding-right:5px;
+}
+
+ul li {
+  list-style:none;
+  padding-top:8px;
+}
+
+ul a {
+	padding-left: 12px;
+	text-transform:uppercase;
+	font-size:14px;
+	line-height:20px;
+	color:#023875;
+}
+
+ul a:hover {
+	color:red;
+}
+
+.footer_bottom {
+	min-height:42px;
+	background:#023875;
+	border-radius:4px;
+}
+
+.footer_name {
+	color:#fff;
+	font-size:14px;
+	line-height:42px;
+}
+
+.footer_name {
+	display:inline;
+	padding-left:30px;
+}
+
+.footer_middle li{
+  padding-top:15px;
+}
